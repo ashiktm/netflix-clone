@@ -1,8 +1,8 @@
 
 import './App.css';
-import Banner from './component/banner/Banner';
-import Navbar from './component/navbar/Navbar';
-import RowPoster from './component/rowposter/RowPoster';
+import Banner from './components/banner/Banner';
+import Navbar from './components/navbar/Navbar';
+import RowPoster from './components/rowposter/RowPoster';
 
 
 function App() {
