@@ -13,9 +13,9 @@ function App() {
      <Banner/>
      <RowPoster title='Netflix Orhinals' uu={Originals}/>
      <RowPoster title='Action Movies' uu={Action} issmall/>
-     <RowPoster title='ComedyMovies' uu={ComedyMovies} />
+     <RowPoster title='ComedyMovies' uu={ComedyMovies} issmall/>
      <RowPoster title='HorrorMovies' uu={HorrorMovies} issmall/>
-     <RowPoster title='RomanceMovies' uu={RomanceMovies} />
+     <RowPoster title='RomanceMovies' uu={RomanceMovies} issmall/>
      <RowPoster title='Documentaries' uu={Documentaries} issmall/>
     </div>
   );
